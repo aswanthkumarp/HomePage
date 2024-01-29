@@ -4,4 +4,4 @@ Welcome to the Simple Homepage Frontend App! This web application is a basic hom
 
  **Demo :**
    
-(https://aswanthkumarp.github.io/HomePage/)https://aswanthkumarp.github.io/HomePage/
+https://aswanthkumarp.github.io/HomePage/
