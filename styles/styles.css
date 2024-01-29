@@ -1,0 +1,609 @@
+.bg {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  background-color: var(--bg3);
+  width: 80rem;
+  height: 24.38rem;
+}
+
+.start-up-services {
+  position: absolute;
+  top: 11.5rem;
+  left: 2.5rem;
+  line-height: 150%;
+  font-weight: 600;
+}
+
+.risk-assurance {
+  position: absolute;
+  top: 11.5rem;
+  left: 54.5rem;
+  line-height: 150%;
+  font-weight: 600;
+}
+
+.we-support-entrepreneurs {
+  position: absolute;
+  top: 13.88rem;
+  left: 2.5rem;
+  font-size: var(--paragraph-size);
+  line-height: 150%;
+  color: var(--black);
+  display: inline-block;
+  width: 23rem;
+}
+
+.finance-accounting {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  line-height: 150%;
+  font-weight: 600;
+}
+
+.we-provide-our {
+  position: absolute;
+  top: 2.38rem;
+  left: 0rem;
+  font-size: var(--paragraph-size);
+  line-height: 150%;
+  color: var(--black);
+  display: inline-block;
+  width: 23rem;
+}
+
+.finance-accounting-parent {
+  position: absolute;
+  top: 11.5rem;
+  left: 28.5rem;
+  width: 23rem;
+  height: 6.88rem;
+}
+
+.we-offer-risk {
+  position: absolute;
+  top: 13.88rem;
+  left: 54.5rem;
+  font-size: var(--paragraph-size);
+  line-height: 150%;
+  color: var(--black);
+  display: inline-block;
+  width: 23rem;
+}
+
+.section-2-child {
+  position: absolute;
+  top: 6rem;
+  left: 2.5rem;
+  border-radius: 50%;
+  background-color: var(--turqoise);
+  width: 4rem;
+  height: 4rem;
+}
+
+.section-2-item {
+  position: absolute;
+  top: 6rem;
+  left: 28.5rem;
+  border-radius: 50%;
+  background-color: var(--turqoise);
+  width: 4rem;
+  height: 4rem;
+}
+
+.section-2-inner {
+  position: absolute;
+  top: 6rem;
+  left: 54.5rem;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  background-color: var(--turqoise);
+}
+
+.group-icon {
+  position: absolute;
+  top: 6.75rem;
+  left: 3.58rem;
+  width: 1.84rem;
+  height: 2.5rem;
+}
+
+.vector-icon {
+  position: absolute;
+  top: 6.94rem;
+  left: 29.44rem;
+  width: 2.13rem;
+  height: 2.13rem;
+}
+
+.section-2-inner {
+  position: absolute;
+  top: 6rem;
+  left: 54.5rem;
+  width: 4rem;
+  height: 4rem;
+}
+
+.group-icon1 {
+  position: absolute;
+  top: 6.94rem;
+  left: 55.58rem;
+  width: 1.84rem;
+  height: 2.13rem;
+}
+
+.section-2 {
+  position: absolute;
+  top: 48rem;
+  left: 0rem;
+  width: 80rem;
+  height: 24.38rem;
+}
+
+.bg-icon {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 80rem;
+  height: 41rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.take-the-right {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  line-height: 120%;
+  display: inline-block;
+  width: 35rem;
+}
+
+.tax-associate-is {
+  position: absolute;
+  top: 9.88rem;
+  left: 0rem;
+  font-size: var(--paragraph-size);
+  line-height: 150%;
+  display: inline-block;
+  width: 27.5rem;
+}
+
+.enquire-now {
+  position: relative;
+  line-height: 140%;
+}
+
+.button1 {
+  border-radius: var(--br-5xl);
+  background-color: var(--turqoise);
+  height: 2.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-5xl);
+  box-sizing: border-box;
+}
+
+.button {
+  position: absolute;
+  top: 16.38rem;
+  left: 0rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--pt-size);
+}
+
+.take-the-right-step-for-your-b-parent {
+  position: absolute;
+  top: 11.13rem;
+  left: 2.5rem;
+  width: 35rem;
+  height: 18.88rem;
+}
+
+.apply-for-tax {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+
+.span {
+  font-family: var(--font-fontawesome);
+}
+
+.button2 {
+  position: absolute;
+  top: 21.31rem;
+  left: 0rem;
+  border-radius: var(--br-5xl);
+  background-color: var(--tax-dark-blue);
+  height: 2.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) var(--padding-5xl);
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--white);
+}
+
+.i-have-read {
+  position: absolute;
+  top: 0rem;
+  left: 1.75rem;
+  line-height: 150%;
+  display: inline-block;
+  width: 17.75rem;
+}
+
+.checkbox-selected {
+  position: absolute;
+  top: 0.06rem;
+  left: 0rem;
+  border-radius: var(--br-11xs);
+  width: 1.25rem;
+  height: 1.25rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.i-have-read-agreed-to-the-au-parent {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 19.5rem;
+  height: 2.63rem;
+}
+
+.group-wrapper {
+  position: absolute;
+  top: 16.69rem;
+  left: 0rem;
+  width: 19.5rem;
+  height: 2.63rem;
+}
+
+.group-child {
+  position: absolute;
+  top: 1.5rem;
+  left: -0.06rem;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 19.63rem;
+  height: 2.63rem;
+}
+
+.email-id {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  line-height: 150%;
+}
+
+.rectangle-parent {
+  position: absolute;
+  top: 5.56rem;
+  left: 0rem;
+  width: 19.5rem;
+  height: 4.06rem;
+}
+
+.rectangle-group {
+  position: absolute;
+  top: 11.13rem;
+  left: 0rem;
+  width: 19.5rem;
+  height: 4.06rem;
+}
+
+.group-inner {
+  position: absolute;
+  top: -0.06rem;
+  left: -0.06rem;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 19.63rem;
+  height: 2.63rem;
+}
+
+.rectangle-wrapper {
+  position: absolute;
+  top: 1.56rem;
+  left: 0rem;
+  width: 19.5rem;
+  height: 2.5rem;
+}
+
+.name-parent {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 19.5rem;
+  height: 4.06rem;
+}
+
+.button-parent {
+  width: 19.5rem;
+  position: relative;
+  height: 23.81rem;
+  font-size: var(--pt-size);
+  color: var(--black);
+}
+
+.try-our-free-tax-calculator {
+  position: absolute;
+  top: 5.19rem;
+  left: 54.69rem;
+  border-radius: var(--br-base);
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl);
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-6xl);
+  color: var(--tax-dark-blue);
+}
+
+.section-13 {
+  position: absolute;
+  top: 7rem;
+  left: 0rem;
+  width: 80rem;
+  height: 41rem;
+  font-size: var(--h1-size);
+  color: var(--white);
+}
+
+.bg1 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  background-color: var(--white);
+  box-shadow: var(--shadow-1);
+  width: 80rem;
+  height: 4.5rem;
+}
+
+.header-child {
+  position: absolute;
+  top: 1.13rem;
+  left: 2.5rem;
+  width: 2rem;
+  height: 2.25rem;
+}
+
+.home {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  line-height: 140%;
+}
+
+.services {
+  position: absolute;
+  top: 0rem;
+  left: 5rem;
+  line-height: 140%;
+}
+
+.about-us {
+  position: absolute;
+  top: 0rem;
+  left: 11.06rem;
+  line-height: 140%;
+}
+
+.order-company {
+  position: absolute;
+  top: 0rem;
+  left: 17.44rem;
+  line-height: 140%;
+}
+
+.apply-for-tax1 {
+  position: absolute;
+  top: 0rem;
+  left: 26.5rem;
+  line-height: 140%;
+}
+
+.blog {
+  position: absolute;
+  top: 0rem;
+  left: 37.63rem;
+  line-height: 140%;
+}
+
+.contact {
+  position: absolute;
+  top: 0rem;
+  left: 42rem;
+  line-height: 140%;
+}
+
+.home-parent {
+  width: 45.31rem;
+  position: relative;
+  height: 1.25rem;
+}
+
+.menu {
+  position: absolute;
+  top: 1.63rem;
+  left: 32.19rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header {
+  position: absolute;
+  top: 2.5rem;
+  left: 0rem;
+  width: 80rem;
+  height: 4.5rem;
+  text-align: left;
+  font-size: var(--pt-size);
+  color: var(--black);
+  font-family: var(--pt);
+}
+
+.bg2 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  background-color: var(--dark-blue);
+  width: 80rem;
+  height: 2.5rem;
+}
+
+.span2 {
+  font-family: var(--font-ibm-plex-sans);
+}
+
+.contactsampleie {
+  color: var(--color-linen);
+  font-size: var(--font-size-xs);
+  font-family: var(--pt);
+}
+
+.contactsampleie-container {
+  width: 33.69rem;
+  position: relative;
+  line-height: 150%;
+  white-space: pre-wrap;
+  display: flex;
+  top: 0.56rem;
+  bottom: 0.62rem;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightseagreen);
+  font-family: var(--font-fontawesome);
+  left: 2.5rem;
+}
+
+.icons {
+  color: #40a5a2;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  word-wrap: break-word;
+}
+
+.contact-text {
+  color: #f2efe6;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  word-wrap: break-word;
+}
+
+.contact-bar {
+  color: #f2efe6;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  word-wrap: break-word;
+}
+
+.social-media-logo {
+  position: absolute;
+  top: 0rem;
+  left: 6rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.social-media-logo1 {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.group-child1 {
+  position: absolute;
+  top: 0rem;
+  left: 3rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.social-media-logo-parent {
+  position: absolute;
+  top: 0.5rem;
+  left: 70rem;
+  width: 7.5rem;
+  height: 1.5rem;
+}
+
+.top-nav-bar {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 80rem;
+  height: 2.5rem;
+}
+
+.header-parent {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 80rem;
+  height: 7rem;
+  font-size: var(--pt-size);
+  color: var(--turqoise);
+  font-family: var(--font-fontawesome);
+}
+
+.terms-conditions {
+  text-decoration: underline;
+  color: #00a5df;
+}
+
+.try-our-free-tax-calculator1 {
+  position: absolute;
+  top: 12.19rem;
+  left: 54.69rem;
+  border-radius: var(--br-base);
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xl);
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-6xl);
+  color: var(--tax-dark-blue);
+}
+
+.design {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  height: 72.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--dark-blue);
+  font-family: var(--pt);
+}/*# sourceMappingURL=styles.css.map */
